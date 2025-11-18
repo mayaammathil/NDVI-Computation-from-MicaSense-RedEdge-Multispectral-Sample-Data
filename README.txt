@@ -1,4 +1,4 @@
-Captured from 72m (236 ft) above ground level
+
 MicaSense RedEdge Sample Data
 
 Raw samples contain the unprocessed output files, as they are captured by the camera (one 16-bit TIFF file per band).
@@ -17,6 +17,7 @@ Example #1
 Captured from 70 meters above ground level.
 
 Raw sample capture: rededge_raw_example1.zip
+
 
 
 
